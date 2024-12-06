@@ -1,4 +1,4 @@
-package com.nikitinada.model;
+package com.nikitinada.entity;
 
 import jakarta.persistence.*;
 import lombok.ToString;

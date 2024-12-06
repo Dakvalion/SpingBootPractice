@@ -1,6 +1,6 @@
 package com.nikitinada.service;
 
-import com.nikitinada.model.UserEntity;
+import com.nikitinada.entity.UserEntity;
 import com.nikitinada.model.UserRequest;
 
 public interface UserService {

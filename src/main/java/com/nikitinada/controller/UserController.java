@@ -1,6 +1,6 @@
 package com.nikitinada.controller;
 
-import com.nikitinada.model.UserEntity;
+import com.nikitinada.entity.UserEntity;
 import com.nikitinada.model.UserRequest;
 import com.nikitinada.service.UserService;
 import lombok.Generated;

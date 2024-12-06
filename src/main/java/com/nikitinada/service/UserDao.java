@@ -1,10 +1,9 @@
 package com.nikitinada.service;
 
-import com.nikitinada.model.UserEntity;
+import com.nikitinada.entity.UserEntity;
 import com.nikitinada.model.UserRequest;
 import com.nikitinada.repository.UserRepository;
 import lombok.Generated;
-import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 @Service
